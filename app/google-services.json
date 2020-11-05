@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178634862267",
+    "firebase_url": "https://belajar-crud-3c7b6.firebaseio.com",
+    "project_id": "belajar-crud-3c7b6",
+    "storage_bucket": "belajar-crud-3c7b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178634862267:android:6e028170986dd1a272c39e",
+        "android_client_info": {
+          "package_name": "com.syachan.todoappcruidbasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178634862267-2kgu3fs7ah6nmks2hfs81mpjpp3emnsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syachan.todoappcruidbasic",
+            "certificate_hash": "670bb169fca2b4a7609807cb1de8da61b3f1dc5c"
+          }
+        },
+        {
+          "client_id": "178634862267-6or78d8qbfe08bt4pk08npnvf42iv7fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQZWpDRHFY3BGnDefX7lSOloeOO_ppdEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178634862267-6or78d8qbfe08bt4pk08npnvf42iv7fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
